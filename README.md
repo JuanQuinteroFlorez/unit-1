@@ -34,3 +34,18 @@ for i in products:
     print('The Display has a price of $200 {} \n'.format (name))
 print('We hope this information was useful, have a great day!')
 ```
+### Task 2: Programming basics
+
+```.py
+string=input('plese input a word ')
+print(string[2])
+print(string[-2])
+print(string[0:5])
+print(string[:-2])
+print(string[::2])
+print(string[1::2])
+print(string[::-1])
+print(string[::-2])
+print (len(string))
+
+```
