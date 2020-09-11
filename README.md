@@ -52,6 +52,14 @@ print (len(string))
 
 ```
 
+```.py
+n1 = int(input('Please enter a number: '))
+n2 = int(input('Please enter another number: '))
+  
+for i in range(n1,n2 + 1):
+  print(i, end=" ")
+```
+
 ## Create a program that asks the user for 10 numbers and then shows those values ordered from smallest to largest.
 
 ```.py
