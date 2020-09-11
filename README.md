@@ -49,7 +49,8 @@ print(string[::-2])
 print (len(string))
 
 ```
-### Create a program that asks the user for 10 numbers and then shows those values ordered from smallest to largest.
+### Juan Quintero Task 2: Programming basics
+## Create a program that asks the user for 10 numbers and then shows those values ordered from smallest to largest.
 
 ```.py
 print('input 10 numbers. Do not forget to add space: ', end='')
