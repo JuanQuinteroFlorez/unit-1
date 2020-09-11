@@ -34,7 +34,9 @@ for i in products:
     print('The Display has a price of $200 {} \n'.format (name))
 print('We hope this information was useful, have a great day!')
 ```
-### Task 2: Programming basics
+
+### Juan Quintero Task 2: Programming basics
+### Task 2: Programming basics exercises in Snakify:
 
 ```.py
 string=input('plese input a word ')
@@ -49,7 +51,7 @@ print(string[::-2])
 print (len(string))
 
 ```
-### Juan Quintero Task 2: Programming basics
+
 ## Create a program that asks the user for 10 numbers and then shows those values ordered from smallest to largest.
 
 ```.py
