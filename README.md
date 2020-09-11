@@ -62,3 +62,6 @@ print(numbers)
 ```
 
 ![WhatsApp Image 2020-09-11 at 2 59 33 PM (1)](https://user-images.githubusercontent.com/70176375/92970364-2ab9e200-f444-11ea-9150-cb87bf0d6bee.jpeg)
+
+![WhatsApp Image 2020-09-11 at 2 59 33 PM](https://user-images.githubusercontent.com/70176375/92970499-62c12500-f444-11ea-8197-6dabc6d92229.jpeg)
+
