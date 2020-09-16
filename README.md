@@ -73,3 +73,7 @@ print(numbers)
 
 ![WhatsApp Image 2020-09-11 at 2 59 33 PM](https://user-images.githubusercontent.com/70176375/92970499-62c12500-f444-11ea-8197-6dabc6d92229.jpeg)
 
+## the following image contains information of the computer:
+
+
+
