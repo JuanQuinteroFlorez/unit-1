@@ -77,3 +77,5 @@ print(numbers)
 
 ![](https://lh3.googleusercontent.com/-4bc7EFbRSMQ/X2FTKtunLPI/AAAAAAAAAWI/hX3Q3K01YHwWQKFH5u8Dy5zAqIWODXbfgCK8BGAsYHg/s0/2020-09-15.jpg)
 
+# In the left side we can find the inputs of the computer such as: touch scrren, mouse, microfone and USB. In the right side we can see the outputs of the computer. Some of them are: Screen, speaker, DP and bt device. The large square is the CPU where we can find most of the important components of the computer. In the CPU we can see the following componets: Ram, HDD 2, SATa, power suply, PSU cables, bus, PSI, SSD and we can see the fan which helps the CPU keeps its stable temperature.
+
