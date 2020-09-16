@@ -75,5 +75,5 @@ print(numbers)
 
 ## the following image contains information of the computer:
 
-
+![](https://lh3.googleusercontent.com/-4bc7EFbRSMQ/X2FTKtunLPI/AAAAAAAAAWI/hX3Q3K01YHwWQKFH5u8Dy5zAqIWODXbfgCK8BGAsYHg/s0/2020-09-15.jpg)
 
